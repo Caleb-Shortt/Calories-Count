@@ -1,6 +1,10 @@
 # dev
 
 
+![Team Logo](images/WW.jpg)
+
+## Project Screenshot
+![Calories Count Homepage](images/Home_Guest_Profile-100.jpg)
 
 ## Getting started
 
